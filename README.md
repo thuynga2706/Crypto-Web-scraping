@@ -5,3 +5,5 @@ In this project, articles about new technology, and especially cryptocurrency ar
 It includes 2 programs:
 - Web-scraping : scrape articles from news websites
 - Sentiments-analysis: Use Vader algorithm to find polarity score
+
+An example of the output of the programs: Most 5 positive and 5 negative articles in a day. 
